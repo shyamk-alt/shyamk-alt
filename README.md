@@ -12,7 +12,7 @@
 
 - 10+ Courses • 30+ Languages • Built for students
 - Tech Stack: YouTube API, Google Translate API, Canvas API, LocalStorage
-- Features: Video learning, multilingual support, progress tracking
+- Features: Video learning, multilingual support, progress tracking.
 
 ---
 
