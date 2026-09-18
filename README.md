@@ -1,16 +1,40 @@
-## Hi there 👋
+![Banner](WA_1789749553623.jpeg)
 
-<!--
-**shyamk-alt/shyamk-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Shyam K
+### Frontend Developer | UI/UX Builder | B.E. CSE @ GRTIET
 
-Here are some ideas to get you started:
+> Building StudyVault World 🌍 — An open education platform for everyone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Flagship Project — StudyVault World
+**Live:** StudyVault World — Free Forever, No Login Required
+
+- 10+ Courses • 30+ Languages • Built for students
+- Tech Stack: YouTube API, Google Translate API, Canvas API, LocalStorage
+- Features: Video learning, multilingual support, progress tracking
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS
+**Tools:** Figma, Git, GitHub, Netlify, VS Code
+**Focus:** Responsive Design, UI/UX, Performance
+
+---
+
+### 📊 GitHub Stats
+![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyamk-alt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamk-alt&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+- 📍 Tiruttani, Tamil Nadu, India
+- 📧 shyamk.cse2024@grt.edu.in
+- 💼 Open to Frontend Internships & Collaborations
+
+> "Building in public. Learning in public. Growing every day."
+
+---
+⭐ From [shyamk-alt](https://github.com/shyamk-alt)
