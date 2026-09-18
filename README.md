@@ -1,4 +1,4 @@
-[Banner](https://raw.githubusercontent.com/shyamk-alt/shyamk-alt/main/WA_1789750021311.jpeg)
+![Banner](banner.png)
 
 # Hi 👋 I'm Shyam K
 ### Frontend Developer | UI/UX Builder | B.E. CSE @ GRTIET
