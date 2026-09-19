@@ -1,4 +1,6 @@
-![Banner](WA_1789750021311.jpeg)
+<p align="center">
+  <img src="./grok_1787822223071.jpg" width="100%" />
+</p>
 
 
 # Hi 👋 I'm Shyam K
