@@ -1,4 +1,7 @@
-![Banner](WA_1789750021311.jpeg)
+<p align="center">
+  <img src="WA_1789750021311.jpeg" alt="Banner">
+</p>
+
 
 # Hi 👋 I'm Shyam K
 ### Frontend Developer | UI/UX Builder | B.E. CSE @ GRTIET
