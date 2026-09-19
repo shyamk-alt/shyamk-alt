@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="WA_1789750021311.jpeg" alt="Banner">
-</p>
+![Banner](WA_1789750021311.jpeg)
+
 
 
 # Hi 👋 I'm Shyam K
