@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./grok_1787822223071.jpg" width="100%" />
+  <img src="./WA_1789749181231.jpeg" width="100%" />
 </p>
 
 
