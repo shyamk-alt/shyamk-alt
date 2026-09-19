@@ -3,7 +3,7 @@
 # Hi 👋 I'm Shyam K
 ### Frontend Developer | UI/UX Builder | B.E. CSE @ GRTIET
 
-> Building StudyVault World 🌍 — An open education platform for everyone.
+> Building StudyVault World 🌍 — An open education platform for everyone
 
 ---
 
